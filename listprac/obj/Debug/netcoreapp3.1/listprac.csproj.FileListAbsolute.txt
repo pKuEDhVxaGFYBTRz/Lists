@@ -1,0 +1,11 @@
+H:\CompScience\lists\listprac\listprac\obj\Debug\netcoreapp3.1\listprac.csprojAssemblyReference.cache
+H:\CompScience\lists\listprac\listprac\obj\Debug\netcoreapp3.1\listprac.AssemblyInfoInputs.cache
+H:\CompScience\lists\listprac\listprac\obj\Debug\netcoreapp3.1\listprac.AssemblyInfo.cs
+H:\CompScience\lists\listprac\listprac\bin\Debug\netcoreapp3.1\listprac.exe
+H:\CompScience\lists\listprac\listprac\bin\Debug\netcoreapp3.1\listprac.deps.json
+H:\CompScience\lists\listprac\listprac\bin\Debug\netcoreapp3.1\listprac.runtimeconfig.json
+H:\CompScience\lists\listprac\listprac\bin\Debug\netcoreapp3.1\listprac.runtimeconfig.dev.json
+H:\CompScience\lists\listprac\listprac\bin\Debug\netcoreapp3.1\listprac.dll
+H:\CompScience\lists\listprac\listprac\bin\Debug\netcoreapp3.1\listprac.pdb
+H:\CompScience\lists\listprac\listprac\obj\Debug\netcoreapp3.1\listprac.dll
+H:\CompScience\lists\listprac\listprac\obj\Debug\netcoreapp3.1\listprac.pdb
